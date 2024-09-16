@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gaming\\Projects\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Gaming\\Projects\\gp24-102-csharp-basics-StepounJames\\P1HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Gaming\\Projects\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Gaming\\Projects\\gp24-102-csharp-basics-StepounJames\\P1HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\steva\\.nuget\\packages\\",
-      "outputPath": "C:\\Gaming\\Projects\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Gaming\\Projects\\gp24-102-csharp-basics-StepounJames\\P1HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steva\\AppData\\Roaming\\NuGet\\NuGet.Config"
