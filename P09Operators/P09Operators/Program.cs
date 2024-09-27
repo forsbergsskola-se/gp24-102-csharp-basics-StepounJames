@@ -62,3 +62,8 @@ float b = float.Parse(bb);
 double c = Math.Sqrt(a * a + b * b); 
 Console.WriteLine(c);*/
 
+string input = Console.ReadLine();
+int secondsb = int.Parse(input);
+int minutes = secondsb / 60;
+int seconds = secondsb - (minutes * 60);
+Console.WriteLine(minutes + " minute and " + seconds + " seconds");
