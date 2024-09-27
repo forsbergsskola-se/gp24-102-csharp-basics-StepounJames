@@ -16,3 +16,8 @@ Console.WriteLine("Days: " + days);
 Console.WriteLine(days + "." + hours + ":" + minutes + ":" + seconds);
 Console.WriteLine("In total, that's:" + decdays + " days.");*/
 
+/*string kspeed = Console.ReadLine();
+double mspeedb = double.Parse(kspeed) * 0.28;
+int mspeed = Convert.ToInt32(mspeedb);
+Console.WriteLine(mspeed);*/
+
