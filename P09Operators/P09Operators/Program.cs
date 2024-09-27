@@ -38,3 +38,8 @@ Console.WriteLine(cb);*/
 float b = float.Parse(a);
 float c = 3.14f * (b * b);
 Console.WriteLine(c);*/
+
+/*int a = int.Parse (Console.ReadLine());
+int b = -a;
+Console.WriteLine(b);*/
+
