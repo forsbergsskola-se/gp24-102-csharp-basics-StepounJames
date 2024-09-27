@@ -27,3 +27,10 @@ int secondsb = int.Parse (min);
 int seconds = secondsb * 60;
 Console.WriteLine ("Seconds: " + seconds);*/
 
+/*string abb = Console.ReadLine();
+string bbb = Console.ReadLine();
+int ab = int.Parse(abb);
+int bb = int.Parse(bbb);
+int cb = ab % bb;
+Console.WriteLine(cb);*/
+
