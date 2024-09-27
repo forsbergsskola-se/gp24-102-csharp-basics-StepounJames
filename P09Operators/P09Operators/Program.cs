@@ -55,4 +55,10 @@ float height = float.Parse(heightb);
 float bmi = weight / (height * height);
 Console.WriteLine(bmi);*/
 
+/*string ab = Console.ReadLine();
+string bb = Console.ReadLine();
+float a = float.Parse(ab);
+float b = float.Parse(bb);
+double c = Math.Sqrt(a * a + b * b); 
+Console.WriteLine(c);*/
 
