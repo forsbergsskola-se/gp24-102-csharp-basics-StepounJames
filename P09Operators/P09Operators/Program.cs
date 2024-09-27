@@ -48,4 +48,11 @@ int b = int.Parse(Console.ReadLine());
 int c = a * b;
 Console.WriteLine(c);*/
 
+/*string weightb = Console.ReadLine();
+string heightb = Console.ReadLine();
+float weight = float.Parse(weightb);
+float height = float.Parse(heightb);
+float bmi = weight / (height * height);
+Console.WriteLine(bmi);*/
+
 
