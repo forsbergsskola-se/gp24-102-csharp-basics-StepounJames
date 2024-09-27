@@ -21,3 +21,9 @@ double mspeedb = double.Parse(kspeed) * 0.28;
 int mspeed = Convert.ToInt32(mspeedb);
 Console.WriteLine(mspeed);*/
 
+/*Console.Write ("Please enter the minutes you want to convert: ");
+string min = Console.ReadLine ();
+int secondsb = int.Parse (min);
+int seconds = secondsb * 60;
+Console.WriteLine ("Seconds: " + seconds);*/
+
