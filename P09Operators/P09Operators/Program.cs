@@ -34,3 +34,7 @@ int bb = int.Parse(bbb);
 int cb = ab % bb;
 Console.WriteLine(cb);*/
 
+/*string a = Console.ReadLine();
+float b = float.Parse(a);
+float c = 3.14f * (b * b);
+Console.WriteLine(c);*/
